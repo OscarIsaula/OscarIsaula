@@ -7,7 +7,6 @@
 - Personal Email: Oscarf23529@gmail.com
 - School Email: Ovi5017@psu.edu
 - Discord: Aegis#9043
-- PlayStation Username: AegisHolder
 
 <!---
 RelentlessHN/RelentlessHN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
